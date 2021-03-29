@@ -1,0 +1,35 @@
+div#klb-blogmeta-gallery {
+    display: none;
+}
+
+div#klb-blogmeta-audio {
+    display: none;
+}
+
+div#klb-blogmeta-video {
+    display: none;
+}
+
+.header_wrap.nav-fixed {
+    top: 32px !important;
+}
+
+@media(max-width:600px){
+	.header_wrap.nav-fixed {
+		top: 0 !important;
+	}
+}
+
+*[class*="mega_main"] #wpbody select {
+    line-height: 1.5;
+}
+
+@media only screen and (min-width: 992px){
+	header.header_wrap.fixed-top.header_with_topbar.nav-fixed ul li.submenu_full_width > ul.mega_dropdown {
+		top: 99px !important;
+	}
+}
+
+.klb-header3.header_wrap {
+    top: 32px !important;
+}

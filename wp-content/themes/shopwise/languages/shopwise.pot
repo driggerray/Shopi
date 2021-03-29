@@ -1,0 +1,1199 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Shopwise\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-29 14:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: KlbTheme <berbatx13@gmail.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: tr_TR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: ../404.php:19 ../404.php:28
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:42
+msgid "404"
+msgstr ""
+
+#: ../404.php:43
+msgid "oops! The page you requested was not found!"
+msgstr ""
+
+#: ../404.php:44
+msgid ""
+"The page you are looking for was moved, removed, renamed or might never "
+"existed."
+msgstr ""
+
+#: ../404.php:47 ../includes/woocommerce.php:435 
+#: ../includes/woocommerce.php:448 ../includes/woocommerce.php:480 
+#: ../includes/woocommerce.php:513 ../includes/woocommerce.php:546 
+#: ../includes/woocommerce.php:548
+msgid "Search"
+msgstr ""
+
+#: ../404.php:51
+msgid "Go To Homepage"
+msgstr ""
+
+#: ../archive.php:42 ../archive.php:67 ../archive.php:86 ../archive.php:111 
+#: ../index.php:57 ../index.php:82 ../index.php:101 ../index.php:126 
+#: ../search.php:43 ../search.php:72 ../search.php:95 ../search.php:124 
+#: ../single.php:27 ../single.php:48 ../single.php:63 ../single.php:84
+msgid "No Posts Found"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:78
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:78
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:78
+msgid "to post a comment."
+msgstr ""
+
+#: ../footer.php:92
+msgid "Copyright 2020.KlbTheme . All rights reserved"
+msgstr ""
+
+#: ../footer.php:100
+msgid "payment-image"
+msgstr ""
+
+#: ../functions.php:169
+msgid "Meta Box"
+msgstr ""
+
+#: ../functions.php:174
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:179
+msgid "WooCommerce"
+msgstr ""
+
+#: ../functions.php:184
+msgid "WooCommerce Wishlist"
+msgstr ""
+
+#: ../functions.php:189
+msgid "WooCommerce Compare"
+msgstr ""
+
+#: ../functions.php:194
+msgid "Kirki"
+msgstr ""
+
+#: ../functions.php:199
+msgid "Elementor"
+msgstr ""
+
+#: ../functions.php:204
+msgid "MailChimp Subscribe"
+msgstr ""
+
+#: ../functions.php:209
+msgid "Variation Swatches"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Mega Main Menu"
+msgstr ""
+
+#: ../functions.php:225
+msgid "Shopwise Core"
+msgstr ""
+
+#: ../functions.php:236 ../includes/merlin/class-merlin.php:2008
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions.php:247
+msgid "Envato Market"
+msgstr ""
+
+#: ../functions.php:281
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: ../functions.php:284
+msgid "Klb Sidebar Menu"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Top Right Menu"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Top Left Menu"
+msgstr ""
+
+#: ../functions.php:464
+msgid "Read More"
+msgstr ""
+
+#: ../functions.php:482
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:484
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: ../functions.php:492
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../functions.php:494
+msgid "These are widgets for the Shop."
+msgstr ""
+
+#: ../functions.php:502
+msgid "Footer First Column"
+msgstr ""
+
+#: ../functions.php:504 ../functions.php:514 ../functions.php:524 
+#: ../functions.php:534 ../functions.php:544
+msgid "These are widgets for the Footer."
+msgstr ""
+
+#: ../functions.php:512
+msgid "Footer Second Column"
+msgstr ""
+
+#: ../functions.php:522
+msgid "Footer Third Column"
+msgstr ""
+
+#: ../functions.php:532
+msgid "Footer Fourth Column"
+msgstr ""
+
+#: ../functions.php:542
+msgid "Footer Fifth Column"
+msgstr ""
+
+#: ../functions.php:568
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:568
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:592
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:613
+msgid "Name * "
+msgstr ""
+
+#: ../functions.php:618
+msgid "Email *"
+msgstr ""
+
+#: ../functions.php:623
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:634
+msgid "Comment"
+msgstr ""
+
+#: ../index.php:26
+msgid "Blog Posts"
+msgstr ""
+
+#: ../page.php:44 ../page.php:75 ../page.php:106 ../page.php:116 
+#: ../page.php:128 ../page.php:143 ../page.php:155 
+#: ../post-format/content-audio.php:26 ../post-format/content-gallery.php:35 
+#: ../post-format/content-video.php:36 ../post-format/content.php:33 
+#: ../post-format/single-audio.php:27 ../post-format/single-gallery.php:34 
+#: ../post-format/single-video.php:36 ../post-format/single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: ../search.php:18 ../woocommerce-page.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Search..."
+msgstr ""
+
+#: ../woocommerce-page.php:40
+msgid "Products"
+msgstr ""
+
+#: ../woocommerce-single.php:21
+msgid "Product Detail"
+msgstr ""
+
+#: ../dokan/store-sidebar.php:15
+msgid "Store Product Category"
+msgstr ""
+
+#: ../dokan/store-sidebar.php:19
+msgid "Store Location"
+msgstr ""
+
+#: ../dokan/store-sidebar.php:23
+msgid "Store Time"
+msgstr ""
+
+#: ../dokan/store-sidebar.php:27
+msgid "Contact Vendor"
+msgstr ""
+
+#: ../dokan/store.php:53
+msgid "No products were found of this vendor!"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:335 
+#: ../includes/merlin/merlin-config.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:393 
+#: ../includes/class-tgm-plugin-activation.php:912 
+#: ../includes/class-tgm-plugin-activation.php:2618 
+#: ../includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:394 
+#: ../includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1019 
+#: ../includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2358 
+#: ../includes/merlin/class-merlin.php:1104
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2802 
+#: ../includes/merlin/merlin-config.php:49 
+#: ../includes/merlin/merlin-config.php:50 
+#: ../includes/merlin/merlin-config.php:51
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2811 
+#: ../includes/merlin/merlin-config.php:53
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594 
+#: ../includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594 
+#: ../includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/metaboxes.php:27
+msgid "Blog Post Image Slides"
+msgstr ""
+
+#: ../includes/metaboxes.php:33
+msgid "Blog Post Slider Images"
+msgstr ""
+
+#: ../includes/metaboxes.php:34
+msgid ""
+"Upload unlimited images for a slideshow - or only one to display a single "
+"image."
+msgstr ""
+
+#: ../includes/metaboxes.php:56
+msgid "Enter your Audio URL(Oembed) or Embed Code."
+msgstr ""
+
+#: ../includes/metaboxes.php:72
+msgid "Blog Video Settings"
+msgstr ""
+
+#: ../includes/metaboxes.php:78
+msgid "Video Type"
+msgstr ""
+
+#: ../includes/metaboxes.php:82
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/metaboxes.php:83
+msgid "Vimeo"
+msgstr ""
+
+#: ../includes/metaboxes.php:84
+msgid "Own Embed Code"
+msgstr ""
+
+#: ../includes/woocommerce.php:377
+msgid "Select options"
+msgstr ""
+
+#: ../includes/woocommerce.php:471 ../includes/woocommerce.php:504 
+#: ../includes/woocommerce.php:537
+msgid "All Category"
+msgstr ""
+
+#: ../includes/header/header-type1.php:55 
+#: ../includes/header/header-type2.php:52 
+#: ../includes/header/header-type3.php:20 
+#: ../includes/header/header-type4.php:56 
+#: ../includes/header/header-type5.php:56
+msgid "Shopwise"
+msgstr ""
+
+#: ../includes/header/header-type2.php:80 
+#: ../includes/header/header-type4.php:82 
+#: ../includes/header/header-type5.php:82
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/header/header-type2.php:96 
+#: ../includes/header/header-type4.php:97 
+#: ../includes/header/header-type5.php:97
+msgid "More Categories"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:453
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:713
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:720
+msgid "Child"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:726
+msgid "License"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:734
+msgid "Plugins"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:742 
+#: ../includes/merlin/class-merlin.php:1982
+msgid "Content"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:748
+msgid "Ready"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1105
+msgid "req"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1191
+msgid "Select Demo"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1424
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1433
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1492 
+#: ../includes/merlin/class-merlin.php:1533
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1505
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1511
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1515
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1520
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1525
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1529
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1719
+msgid "Activating"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1735
+msgid "Updating"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1751 
+#: ../includes/merlin/class-merlin.php:1767 
+#: ../includes/merlin/class-merlin.php:1985 
+#: ../includes/merlin/class-merlin.php:1998 
+#: ../includes/merlin/class-merlin.php:2011 
+#: ../includes/merlin/class-merlin.php:2024 
+#: ../includes/merlin/class-merlin.php:2037 
+#: ../includes/merlin/class-merlin.php:2050 
+#: ../includes/merlin/class-merlin.php:2093
+msgid "Installing"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1780 
+#: ../includes/merlin/class-merlin.php:1986 
+#: ../includes/merlin/class-merlin.php:1999 
+#: ../includes/merlin/class-merlin.php:2012 
+#: ../includes/merlin/class-merlin.php:2025 
+#: ../includes/merlin/class-merlin.php:2038 
+#: ../includes/merlin/class-merlin.php:2051
+msgid "Success"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1808
+msgid "Invalid content!"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1872
+msgid "Error"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1891
+msgid "Invalid data!"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1983
+msgid "Demo content data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1984 
+#: ../includes/merlin/class-merlin.php:1997 
+#: ../includes/merlin/class-merlin.php:2010 
+#: ../includes/merlin/class-merlin.php:2023 
+#: ../includes/merlin/class-merlin.php:2036 
+#: ../includes/merlin/class-merlin.php:2049
+msgid "Pending"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1995
+msgid "Widgets"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1996
+msgid "Sample widgets data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2009
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2021
+msgid "Options"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2022
+msgid "Sample theme options data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2034
+msgid "Redux Options"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2035
+msgid "Redux framework options."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2047
+msgid "After import setup"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2048
+msgid "After import setup."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:38
+msgid "Theme Setup"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:42
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:43
+msgid "Disable this wizard"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:45
+msgid "Skip"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:46
+msgid "Next"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:47
+msgid "Start"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:48
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:52
+msgid "Import"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:54
+msgid "Later"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:62
+msgid "License key"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:65
+msgid "Need help?"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:69
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:70
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:71
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:73
+msgid "Install Child Theme"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:74
+msgid "You're good to go!"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:77
+msgid "Learn about child themes"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:82
+msgid "You're up to speed!"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press "
+"\"Next\" to continue the setup wizard."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:85 
+#: ../includes/merlin/merlin-config.php:89
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:87
+msgid "Import Content"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:91
+msgid "All done. Have fun!"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:95
+msgid "Extras"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:96
+msgid "View your website"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:97
+msgid "Explore WordPress"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:98
+msgid "Get Theme Support"
+msgstr ""
+
+#: ../includes/merlin/merlin-config.php:99
+msgid "Start Customizing"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:949
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2322
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2331
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: ../post-format/content-audio.php:21 ../post-format/content-gallery.php:30 
+#: ../post-format/content-video.php:31 ../post-format/content.php:28 
+#: ../post-format/single-audio.php:14 ../post-format/single-gallery.php:14 
+#: ../post-format/single-video.php:14 ../post-format/single.php:14
+msgid "Featured"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:28
+msgid "Return to shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:27
+msgid "Cart totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:33 
+#: ../woocommerce/cart/cart-totals.php:34 ../woocommerce/cart/cart.php:35 
+#: ../woocommerce/cart/cart.php:112 
+#: ../woocommerce/checkout/review-order.php:25 
+#: ../woocommerce/checkout/review-order.php:57
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:55 
+#: ../woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:75
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:101 
+#: ../woocommerce/cart/cart-totals.php:102 
+#: ../woocommerce/checkout/review-order.php:104
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:32 ../woocommerce/cart/cart.php:64 
+#: ../woocommerce/checkout/review-order.php:24
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:33 ../woocommerce/cart/cart.php:84
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:34 ../woocommerce/cart/cart.php:90 
+#: ../woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:36
+msgid "Remove"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:125 ../woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:146
+msgid "Apply coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:151
+msgid "Update cart"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:28
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:31
+msgid "Billing details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:57
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:62
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:30
+msgid "Shop order"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:37
+msgid "Related products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:37
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
